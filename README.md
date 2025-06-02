@@ -6,8 +6,8 @@ This project explores the Iris flower dataset using R, applying foundational dat
 
 ## 🔧 Features
 
-- **Comprehensive Data Cleaning**: Handle structure, types, and inconsistencies in the dataset.
 - **Exploratory Data Analysis (EDA)**: Visualize distributions and compare species characteristics.
+- **Data Cleaning**: Handle structure, types, and inconsistencies in the dataset.
 - **Correlation Analysis**: Identify linear relationships among sepal/petal features.
 - **Linear Regression Modeling**: Build predictive models between dependent and independent features.
 - **Hypothesis Testing**: Validate regression coefficients statistically to support conclusions.
